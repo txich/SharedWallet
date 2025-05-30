@@ -1,5 +1,7 @@
 Smart Contract that operates as a shared wallet for any number of addresses.
 
+Hardhat test file is in ./test/tests.ts
+
 Functions:
 
 Check own balance;
@@ -8,4 +10,5 @@ Deposit;
 Withdraw;
 Withdraw all.
 
-This contract does not utilize security measures, use in mainnet at your own risk.
+This contract is tested using Hardhat.
+Use this code in mainnet at your own risk.
